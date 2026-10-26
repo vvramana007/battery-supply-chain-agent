@@ -1,0 +1,15 @@
+sku,name,product_line,unit_cost,pack_size
+DUR-AA-24,Coppertop AA,Consumer,0.38,24
+DUR-AAA-24,Coppertop AAA,Consumer,0.36,24
+DUR-C-12,Coppertop C,Consumer,0.72,12
+DUR-D-12,Coppertop D,Consumer,0.8,12
+DUR-9V-8,Coppertop 9V,Consumer,1.1,8
+OPT-AA-16,Optimum AA,Consumer,0.55,16
+OPT-AAA-16,Optimum AAA,Consumer,0.53,16
+CR2032-20,Lithium Coin CR2032,Specialty,0.22,20
+CR123-6,Lithium 123 Photo,Specialty,1.45,6
+PRO-AA-24,Procell Constant AA,Procell,0.3,24
+PRO-AAA-24,Procell Constant AAA,Procell,0.29,24
+PRO-9V-12,Procell 9V,Procell,0.95,12
+RBL-AA-4,Rechargeable AA,Rechargeable,2.1,4
+RBL-AAA-4,Rechargeable AAA,Rechargeable,2.0,4

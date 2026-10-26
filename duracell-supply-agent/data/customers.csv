@@ -1,0 +1,8 @@
+customer_id,name,channel,region
+CUST-WMT,Walmart,Mass Retail,National
+CUST-HD,Home Depot,Home Improve,National
+CUST-AMZ,Amazon,E-Commerce,National
+CUST-CST,Costco,Club,National
+CUST-TGT,Target,Mass Retail,National
+CUST-BBY,Best Buy,Electronics,National
+CUST-WGN,Walgreens,Drug,National

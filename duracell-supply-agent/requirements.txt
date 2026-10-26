@@ -1,0 +1,12 @@
+# Tools this project uses. Install with:  pip install -r requirements.txt
+# We install them now even though we don't use all of them until later phases,
+# so setup is done once.
+
+pandas              # read and shape tabular data
+anthropic           # talk to Claude (the LLM) - used from Phase 3 onward
+langgraph           # build the agent's step-by-step brain - Phase 6
+langchain-core      # helper pieces LangGraph relies on
+langchain-anthropic # lets LangGraph talk to Claude - Phase 6
+chromadb            # the vector database for RAG - Phase 3
+streamlit           # the web UI - Phase 7
+python-dotenv       # loads your secret API key from the .env file

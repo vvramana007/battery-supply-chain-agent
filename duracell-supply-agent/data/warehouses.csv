@@ -1,0 +1,6 @@
+warehouse_id,name,city,state,region
+WH-BETHEL,Bethel DC,Bethel,CT,Northeast
+WH-ATL,Atlanta DC,Atlanta,GA,Southeast
+WH-CHI,Chicago DC,Chicago,IL,Midwest
+WH-DAL,Dallas DC,Dallas,TX,South
+WH-RENO,Reno DC,Reno,NV,West
